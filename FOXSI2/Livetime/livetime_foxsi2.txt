@@ -1,0 +1,11 @@
+The IDL .sav file 'livetime_d6_target4.sav' includes livetime information for 
+detector 6 during Target 4 of the FOXSI-2 flight.
+
+Data structure: ltime6_t4
+
+Tags in data structures:
+	frac : livetime fraction 
+	avg : average livetime per frame (in microseconds)
+	total livetime : total livetime during Target 4 (in microseconds)
+
+These values were computed using Julie's function 'jv_calc_livetime_func.pro'. 
